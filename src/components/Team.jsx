@@ -16,40 +16,6 @@ const teamMembers = [
     linkedin: "https://www.linkedin.com/in/ashiathukorala",
     email: "mailto:ashinshanee.20230006@iit.ac.lk",
   },
-  {
-    name: "Sithu Prabhashvi",
-    role: "Fullstack Developer",
-    image: "images/Sithu.jpg",
-    github: "https://github.com/Sithuprabashvi",
-    linkedin: "https://www.linkedin.com/in/sithu-yasaswara-797717331/",
-    email: "https://github.com/Sithuprabashvi",
-  },
-  {
-    name: "Sinthujan Rathakrishnan",
-    role: "Fullstack Developer",
-    image: "images/Sinthujan.jpg",
-    github: "https://github.com/Sinthuuuh",
-    linkedin:
-      "https://www.linkedin.com/in/sinthujan-rathakrishnan-8b11b62a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-    email: "mailto:sinthujan.20221553@iit.ac.lk",
-  },
-  {
-    name: "Esandi Rodrigo",
-    role: "Fullstack Developer",
-    image: "images/Esandi.jpg",
-    github: "https://github.com/esandirodrigo",
-    linkedin:
-      "https://www.linkedin.com/in/esandi-rodrigo-7062a8293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-    email: "mailto:esandi.20222150@iit.ac.lk",
-  },
-  {
-    name: "Chithya Dewmini",
-    role: "Fullstack Developer",
-    image: "images/Dewmini.jpg",
-    github: "https://github.com/dew0527",
-    linkedin: "https://www.linkedin.com/in/kulasinge-dewmini-395a91292",
-    email: "mailto:chithya.20231275@iit.ac.lk",
-  },
 ];
 
 const TeamSection = () => {
